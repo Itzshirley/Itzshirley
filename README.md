@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Shirley 👋
 
-<!--
-**Itzshirley/Itzshirley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a **Software Developer** passionate about building practical, reliable, and user-friendly software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas and real-world challenges into functional applications through clean code, thoughtful design, and continuous improvement. My work spans **web development, backend systems, databases, and modern frontend technologies**, with a strong interest in building complete applications from concept to deployment.
+
+I believe good software is more than just code — it should be **useful, intuitive, secure, and built with the people who use it in mind.**
+
+---
+
+## 👩‍💻 About Me
+
+- 💻 Software Developer focused on building real-world applications
+- 🌐 Experienced in full-stack web development
+- 🛠️ Enjoy working across both frontend and backend development
+- 🗄️ Interested in database design and application architecture
+- 🎨 Passionate about creating clean and user-friendly interfaces
+- 🔧 I enjoy solving problems and turning concepts into working systems
+- 📚 Continuously expanding my technical knowledge and exploring new technologies
+- 🚀 Always working on projects that challenge me to learn and improve
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+Python • JavaScript • PHP • HTML • CSS
+
+### Frameworks & Libraries
+Django • React • Bootstrap
+
+### Databases
+MySQL • SQLite
+
+### Tools & Platforms
+Git • GitHub • VS Code • XAMPP • phpMyAdmin
+
+---
+
+## 🚀 What I Build
+
+I enjoy developing applications that solve practical problems, including:
+
+- 🎫 Support and ticketing systems
+- 📅 Productivity and scheduling applications
+- 📊 Dashboards and reporting systems
+- 🔐 Authentication and role-based systems
+- 🗄️ Database-driven web applications
+- 🌐 Full-stack web applications
+
+---
+
+## 🌸 Featured Projects
+
+### 🎫 ICT TeamIt Project Management Tool
+
+A full-featured web-based project management tool for individual and team work.
+**Built with:** PHP • MySQL • JavaScript • Bootstrap
+
+### 🌸 HerDaily
+
+A personal productivity and daily-life management application featuring tasks, calendars, habits, journaling, water tracking, and period tracking.
+
+**Built with:** Django • React • JavaScript • SQLite
+
+---
+
+## 🎯 My Development Philosophy
+
+> **Build with purpose. Learn continuously. Solve real problems.**
+
+I'm interested in creating software that doesn't just work, but provides a meaningful and enjoyable experience for its users.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, designers, organizations, and other people passionate about technology, software development, and building innovative solutions.
+
+Thanks for stopping by my GitHub! 💗
