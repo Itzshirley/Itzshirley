@@ -54,7 +54,7 @@ I enjoy developing applications that solve practical problems, including:
 
 ## 🌸 Featured Projects
 
-### 🎫 ICT TeamIt Project Management Tool
+### 🎫 TeamIt Project Management Tool
 
 A full-featured web-based project management tool for individual and team work.
 **Built with:** PHP • MySQL • JavaScript • Bootstrap
