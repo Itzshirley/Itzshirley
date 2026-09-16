@@ -43,7 +43,6 @@ Git • GitHub • VS Code • XAMPP • phpMyAdmin
 
 I enjoy developing applications that solve practical problems, including:
 
-- 🎫 Support and ticketing systems
 - 📅 Productivity and scheduling applications
 - 📊 Dashboards and reporting systems
 - 🔐 Authentication and role-based systems
