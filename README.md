@@ -1,6 +1,13 @@
-# Hi, I'm Shirley 👋
+
+<h1 align="center">Hi, I'm Shirley 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=700&height=60&lines=Software+Developer;Problem+Solver;Full-Stack+Web+Developer;Building+Practical+Software+Solutions" alt="Animated typing introduction" />
+</p>
 
 ### 💻 Software Developer | Problem Solver
+
+Welcome to my GitHub! I'm a **Software Developer** passionate about building practical, reliable, and user-friendly software solutions.
 
 Welcome to my GitHub! I'm a **Software Developer** passionate about building practical, reliable, and user-friendly software solutions.
 
